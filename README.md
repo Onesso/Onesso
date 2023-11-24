@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Onesso
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning front-end development (react.js)
-- 💞️ I’m looking to collaborate on front-end projects and on X @FrankOdhis1
-- 📫 How to reach me througn my email; odhiambofrank1965@gmail.com
+- 👀 I’m interested in coding react.js , node , express, mongoDB
+- 🌱 I’m currently learning front-end development 
+- 📫 How to reach me througn my email; odhiambofrank1965@gmail.com , on X @FrankOdhis1
 
 <!---
 Onesso/Onesso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
